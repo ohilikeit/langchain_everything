@@ -54,3 +54,5 @@ result/
 run.sh
 test_*
 .venv
+test*
+0.*
